@@ -167,16 +167,5 @@ Contributions are what make the open source community such an amazing place to b
 - Question: Did you design UI?
   **Answer**: No, I did not design actually. I found home page design on Dribbble by [Anton Mikhaltsov](https://dribbble.com/shots/9404340-Shop-Clothing-Web-Page). Except home page, other UI choices is mine. While I made this website in limited time, I did not think on UI/UX a lot. So you can also feedback me about design.
 
-<!-- LICENSE -->
 
-## License
 
-Distributed under the GPL License. See `LICENSE` for more information.
-
-<!-- CONTACT -->
-
-## Contact
-
-[@anilsenay](https://twitter.com/anilsenay)
-
-Project Link: [https://github.com/anilsenay/next-e-commerce](https://github.com/anilsenay/next-e-commerce)
